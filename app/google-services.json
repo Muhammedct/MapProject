@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "387873655972",
+    "firebase_url": "https://mapsmct-f34a3.firebaseio.com",
+    "project_id": "mapsmct-f34a3",
+    "storage_bucket": "mapsmct-f34a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387873655972:android:45fcee86c8a66da5806a31",
+        "android_client_info": {
+          "package_name": "com.example.mapmct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387873655972-bpdkefulq65oubbd99p13lnibbhrm5j8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mapmct",
+            "certificate_hash": "c3022cbb02f9e34a89a61c5c22bd6c1b6d7a0be1"
+          }
+        },
+        {
+          "client_id": "387873655972-hj63c75hmo4n14r6sei53995vnkaaidh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw9Koxo8aNUjwUuJA6Ih9_kIDXftndLjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387873655972-hj63c75hmo4n14r6sei53995vnkaaidh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
